@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "9cec9663a88f3331a1216c630f3d8724"
+	name: "Arkanenn#9cec9663"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1723778199789L
+		2574E7CF699D5B45: 1723778199789L
+		0470194500CBE26C: 1723778199789L
+		0000000000000001: 1723778199789L
+	}
+	completed: {
+		2574E7CF699D5B45: 1723778199789L
+		0470194500CBE26C: 1723778199789L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
